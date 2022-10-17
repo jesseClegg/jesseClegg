@@ -1,13 +1,12 @@
 ## About Me:
 🎓 I am a Computer Science student completing my final semester.
 
-## What I'm Currently Working on:
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=jesseClegg
+## What I have been working on:
+
+🔨After gaining a strong foundation in programming, I am currently learning databases and full-stack web development. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesseClegg)](https://github.com/jesseClegg/github-readme-stats)
-
-🔨After gaining a strong foundation in programming, I am currently learning databases and full-stack web development.  
 
 ## Technologies I am Currently Learning:
 
