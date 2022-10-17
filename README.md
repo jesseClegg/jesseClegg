@@ -4,7 +4,7 @@
 
 ## What I have been working on:
 
-🔨After gaining a strong foundation in programming, I am currently learning databases and full-stack web development. 
+🌱 After gaining a strong foundation in programming, I am currently learning databases and full-stack web development, and AWS cloud solutions. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesseClegg)](https://github.com/jesseClegg/github-readme-stats)
 
