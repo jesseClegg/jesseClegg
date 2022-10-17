@@ -1,7 +1,9 @@
-##About Me:
+## About Me:
+
 🎓 I am a Computer Science student completing my final semester.
 
-##What I'm Currently Working on:
+## What I'm Currently Working on:
+
 🔨After gaining a strong foundation in programming, I am currently learning databases and full-stack web development.  
 
 <!--
