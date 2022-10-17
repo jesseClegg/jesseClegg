@@ -1,4 +1,6 @@
-### Hi there 👋
+I am a Computer Science student completing my final semester.
+
+After gaining a strong foundation in programming, I am currently learning databases and full-stack web development.  
 
 <!--
 **jesseClegg/jesseClegg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
