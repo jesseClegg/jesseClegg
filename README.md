@@ -7,7 +7,7 @@
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesseClegg)](https://github.com/jesseClegg/github-readme-stats)
 
-## Technologies I am Currently Learning:
+## Technologies I am currently learning:
 
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
 
